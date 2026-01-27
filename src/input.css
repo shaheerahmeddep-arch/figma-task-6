@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "tailwindcss";
+
+@theme {
+  --font-radio-canada: "Radio Canada Big", system-ui, sans-serif;
+}
+@import "tailwindcss";
+
+@theme {
+  --font-source-serif: "Source Serif 4", serif;
+}
